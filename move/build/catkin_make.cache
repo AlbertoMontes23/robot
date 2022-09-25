@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/jaimes/Documents/2023/Robot/move/devel -DCMAKE_INSTALL_PREFIX=/home/jaimes/Documents/2023/Robot/move/install -G Unix Makefiles
